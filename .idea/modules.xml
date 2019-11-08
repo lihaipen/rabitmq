@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MP/MP.iml" filepath="$PROJECT_DIR$/../MP/MP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MP/dao/dao.iml" filepath="$PROJECT_DIR$/../MP/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MP/pojo/pojo.iml" filepath="$PROJECT_DIR$/../MP/pojo/pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rabitmq/rabitmq.iml" filepath="$PROJECT_DIR$/../rabitmq/rabitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MP/service/service.iml" filepath="$PROJECT_DIR$/../MP/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-2/springboot-2.iml" filepath="$PROJECT_DIR$/../springboot-2/springboot-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MP/web/web.iml" filepath="$PROJECT_DIR$/../MP/web/web.iml" />
+    </modules>
+  </component>
+</project>
